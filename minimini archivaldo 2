@@ -1,0 +1,11 @@
+2. Regresión Logística
+Concepto:
+La regresión logística es un algoritmo de clasificación que utiliza una función logística (sigmoide) para modelar la probabilidad de una variable de salida binaria (0 o 1).
+
+Características:
+
+Probabilístico: Proporciona probabilidades para las clases.
+Función sigmoide: Convierte una combinación lineal de las características en una probabilidad.
+Interpretabilidad: Los coeficientes pueden interpretarse como el impacto de cada característica.
+Ejemplo de uso:
+Predecir si un cliente comprará un producto (sí/no).
