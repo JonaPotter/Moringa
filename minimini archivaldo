@@ -1,0 +1,11 @@
+1. Clasificación Naive Bayes
+Concepto:
+El clasificador Naive Bayes se basa en el teorema de Bayes con la suposición de independencia entre las características. Es especialmente útil para tareas de clasificación de texto, como el filtrado de spam.
+
+Características:
+
+Fácil de implementar: Sencillo y rápido de entrenar.
+Basado en probabilidad: Calcula la probabilidad de que una instancia pertenezca a una clase.
+Asunción de independencia: Supone que todas las características son independientes entre sí.
+Ejemplo de uso:
+Clasificación de correos electrónicos como spam o no spam.
